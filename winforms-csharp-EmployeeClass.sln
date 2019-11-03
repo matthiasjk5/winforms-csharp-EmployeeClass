@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winforms-csharp-EmployeeClass", "winforms-csharp-EmployeeClass\winforms-csharp-EmployeeClass.csproj", "{F11FDCCF-FFB7-4AED-B7EA-34922B1D5590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11FDCCF-FFB7-4AED-B7EA-34922B1D5590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11FDCCF-FFB7-4AED-B7EA-34922B1D5590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11FDCCF-FFB7-4AED-B7EA-34922B1D5590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11FDCCF-FFB7-4AED-B7EA-34922B1D5590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC461F3-B271-498E-AE8B-60DB73D9A5B9}
+	EndGlobalSection
+EndGlobal
